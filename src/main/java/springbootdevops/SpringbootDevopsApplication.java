@@ -15,7 +15,7 @@ public class SpringbootDevopsApplication {
 	
 	@GetMapping("/")
 	public String testMethod() {
-		return "welcome to sai tutorials!!";
+		return "welcome to Sai Krishna tutorials!!";
 	}
 
 }
